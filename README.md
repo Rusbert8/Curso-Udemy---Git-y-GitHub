@@ -1,6 +1,6 @@
 # Curso Udemy - Git y GitHub
 
-Aquí estamos aprendiendo nuevos comandos de **Git** y a como utilizar la plataforma de **GitHub**.
+Aquí estamos aprendiendo nuevos comandos de **Git** y   a como utilizar la plataforma de **GitHub**.
 
 ## Comandos:
 
